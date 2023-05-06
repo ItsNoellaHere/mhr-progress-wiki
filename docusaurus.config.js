@@ -25,6 +25,9 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          // id: 'lr',
+          path: 'lr',
+          routeBasePath: 'lr',
           sidebarPath: require.resolve('./sidebars.js'),
         },
         theme: {
@@ -34,12 +37,32 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'hr',
+        path: 'hr',
+        routeBasePath: 'hr',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'mr',
+        path: 'mr',
+        routeBasePath: 'mr',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       navbar: {
-        title: 'My Site',
+        title: 'MHR Progression Wiki',
         logo: {
           alt: 'My Site Logo',
           src: 'img/mhricon.png',
@@ -47,9 +70,23 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'lrSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Low Rank',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'hrSidebar',
+            docsPluginId: 'hr',
+            position: 'left',
+            label: 'High Rank',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'mrSidebar',
+            docsPluginId: 'mr',
+            position: 'left',
+            label: 'Master Rank',
           },
           {
             href: 'https://github.com/ItsNoellaHere/mhr-progress-wiki',
@@ -65,47 +102,6 @@ const config = {
       },
       footer: {
         style: 'dark',
-        // links: [
-        //   {
-        //     title: 'Docs',
-        //     items: [
-        //       {
-        //         label: 'Tutorial',
-        //         to: '/docs/intro',
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     title: 'Community',
-        //     items: [
-        //       {
-        //         label: 'Stack Overflow',
-        //         href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-        //       },
-        //       {
-        //         label: 'Discord',
-        //         href: 'https://discordapp.com/invite/docusaurus',
-        //       },
-        //       {
-        //         label: 'Twitter',
-        //         href: 'https://twitter.com/docusaurus',
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     title: 'More',
-        //     items: [
-        //       {
-        //         label: 'Blog',
-        //         to: '/blog',
-        //       },
-        //       {
-        //         label: 'GitHub',
-        //         href: 'https://github.com/facebook/docusaurus',
-        //       },
-        //     ],
-        //   },
-        // ],
         copyright: `Copyright © ${new Date().getFullYear()} ItsNoellaHere. Built with Docusaurus.`,
       },
       prism: {
