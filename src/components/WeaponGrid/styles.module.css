@@ -12,11 +12,38 @@
 
 .item {
     width: 14%;
-    /* height: 100px; */
+    position: relative;
+    text-align: center;
 }
 
-/* .item img {
-    width: 300px;
-    height: 300px;
-    object-fit: cover;
-} */
+.item p {
+    width: 100%;
+    margin: 0;
+    font-weight: bold;
+    font-size: 15pt;
+
+    position: absolute;
+    top: 75%;
+}
+
+.item img {
+    transition: all .2s ease-in-out; 
+}
+
+.item :hover img {
+    transform: scale(1.15);
+}
+
+.item a:hover {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 996px) {
+    .item {
+        width: 45%;
+    }
+
+    .container {
+        padding-bottom: 15%;
+    }
+}

@@ -87,7 +87,7 @@ export default function WeaponGrid() {
                 <div className={styles.item}>
                     <a href={weapon.link}>
                         <img src={weapon.image} alt={weapon.name}/>
-                        <h3>{weapon.name}</h3>
+                        <p>{weapon.name}</p>
                     </a>
                 </div>
             ))}
