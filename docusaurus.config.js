@@ -27,7 +27,7 @@ const config = {
         docs: {
           // id: 'lr',
           path: 'lr',
-          routeBasePath: 'lr',
+          routeBasePath: 'low-rank',
           sidebarPath: require.resolve('./sidebars.js'),
         },
         theme: {
@@ -43,7 +43,7 @@ const config = {
       {
         id: 'hr',
         path: 'hr',
-        routeBasePath: 'hr',
+        routeBasePath: 'high-rank',
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
@@ -52,7 +52,7 @@ const config = {
       {
         id: 'mr',
         path: 'mr',
-        routeBasePath: 'mr',
+        routeBasePath: 'master-rank',
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
@@ -70,21 +70,22 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'lrSidebar',
+            
+            sidebarId: 'sidebar',
             position: 'left',
             label: 'Low Rank',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'hrSidebar',
             docsPluginId: 'hr',
+            sidebarId: 'sidebar',
             position: 'left',
             label: 'High Rank',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'mrSidebar',
             docsPluginId: 'mr',
+            sidebarId: 'sidebar',
             position: 'left',
             label: 'Master Rank',
           },
