@@ -107,7 +107,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()}ItsNoellaHere. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ItsNoellaHere. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
