@@ -7,74 +7,74 @@ type weapon = {
     link: string,
 }
 
-let weaponList : weapon[] = [
+let weaponList: weapon[] = [
     {
-        image: '/img/greatsword.png',
+        image: 'https://files.itsnoellahere.gay/images/greatsword.png',
         name: 'Great Sword',
         link: '/low-rank/Great-Sword',
     },
     {
-        image: '/img/SnS.png',
+        image: 'https://files.itsnoellahere.gay/images/SnS.png',
         name: 'Sword and Shield',
         link: '/low-rank/Sword-and-Shield',
     },
     {
-        image: '/img/duals.png',
+        image: 'https://files.itsnoellahere.gay/images/duals.png',
         name: 'Dual Blades',
         link: '/low-rank/Dual-Blades',
     },
     {
-        image: '/img/longsword.png',
+        image: 'https://files.itsnoellahere.gay/images/longsword.png',
         name: 'Long Sword',
         link: '/low-rank/Long-Sword',
     },
     {
-        image: '/img/hammer.png',
+        image: 'https://files.itsnoellahere.gay/images/hammer.png',
         name: 'Hammer',
         link: '/low-rank/Hammer',
     },
     {
-        image: '/img/horn.png',
+        image: 'https://files.itsnoellahere.gay/images/horn.png',
         name: 'Hunting Horn',
         link: '/low-rank/Hunting-Horn',
     },
     {
-        image: '/img/lance.png',
+        image: 'https://files.itsnoellahere.gay/images/lance.png',
         name: 'Lance',
         link: '/low-rank/Lance',
     },
     {
-        image: '/img/gunlance.png',
+        image: 'https://files.itsnoellahere.gay/images/gunlance.png',
         name: 'Gunlance',
         link: '/low-rank/Gunlance',
     },
     {
-        image: '/img/switchaxe.png',
+        image: 'https://files.itsnoellahere.gay/images/switchaxe.png',
         name: 'Switch Axe',
         link: '/low-rank/Switch-Axe',
     },
     {
-        image: '/img/chargeblade.png',
+        image: 'https://files.itsnoellahere.gay/images/chargeblade.png',
         name: 'Charge Blade',
         link: '/low-rank/Charge-Blade',
     },
     {
-        image: '/img/glaive.png',
+        image: 'https://files.itsnoellahere.gay/images/glaive.png',
         name: 'Insect Glaive',
         link: '/low-rank/Insect-Glaive',
     },
     {
-        image: '/img/bow.png',
+        image: 'https://files.itsnoellahere.gay/images/bow.png',
         name: 'Bow',
         link: '/low-rank/Bow',
     },
     {
-        image: '/img/lbg.png',
+        image: 'https://files.itsnoellahere.gay/images/lbg.png',
         name: 'Light Bowgun',
         link: '/low-rank/Light-Bowgun',
     },
     {
-        image: '/img/hbg.png',
+        image: 'https://files.itsnoellahere.gay/images/hbg.png',
         name: 'Heavy Bowgun',
         link: '/low-rank/Heavy-Bowgun',
     },
@@ -86,7 +86,7 @@ export default function WeaponGrid() {
             {weaponList.map((weapon) => (
                 <div className={styles.item}>
                     <a href={weapon.link}>
-                        <img src={weapon.image} alt={weapon.name}/>
+                        <img src={weapon.image} alt={weapon.name} />
                         <p>{weapon.name}</p>
                     </a>
                 </div>

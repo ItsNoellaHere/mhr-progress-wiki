@@ -65,7 +65,7 @@ const config = {
         title: 'MHR Progression Wiki',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/mhricon.png',
+          src: 'https://files.itsnoellahere.gay/images/mhricon.png',
         },
         items: [
           {

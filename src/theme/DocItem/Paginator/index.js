@@ -16,8 +16,6 @@ export default function DocItemPaginator() {
     case 'master-rank': rank = 2; break;
   }
 
-  console.log(metadata);
-
   return <DocPaginator 
       previous={(rank > 0) ? ((rank === 2) ? {title: 'High Rank', permalink: `/high-rank${metadata.slug}`} : {title: 'Low Rank', permalink: `/low-rank${metadata.slug}`}) : null} 
       next={(rank < 2) ? ((rank === 0) ? {title: 'High Rank', permalink: `/high-rank${metadata.slug}`} : {title: 'Master Rank', permalink: `/master-rank${metadata.slug}`}) : null} 
