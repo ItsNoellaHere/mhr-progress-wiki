@@ -1,8 +1,8 @@
 ---
-sidebar_postion: 6
+sidebar_postion: 5
 ---
 
-# Hunting Horn
+# Hammer
 
 ## Village 1⭐
 
@@ -22,9 +22,8 @@ sidebar_postion: 6
 "*" Important Materials
 
 ### Weapon/Armor
- - Bone Horn I
-	 - 3 [Monster Bone S](https://monsterhunterrise.wiki.fextralife.com/Monster+Bone+S)
-	 - 1 [Blue Mushroom](https://monsterhunterrise.wiki.fextralife.com/Blue+Mushroom)
+ - Iron Hammer I
+	 - 3 [Iron Ore](https://monsterhunterrise.wiki.fextralife.com/Iron+Ore)
  - Chainmail Pants
 	 - 2 [Iron Ore](https://monsterhunterrise.wiki.fextralife.com/Iron+Ore)
 
@@ -41,7 +40,7 @@ sidebar_postion: 6
  *See [The Argosy](https://monsterhunterrise.wiki.fextralife.com/The+Argosy) for easy ways to get basic materials
 
 ### Loadout
- - [Bone Horn I](https://monsterhunterrise.wiki.fextralife.com/Bone+Horn+I)
+ - [Iron Hammer I](https://monsterhunterrise.wiki.fextralife.com/Iron+Hammer+I)
  - [Kamura Head Scarf](https://monsterhunterrise.wiki.fextralife.com/Kamura+Head+Scarf)
  - [Kamura Garb](https://monsterhunterrise.wiki.fextralife.com/Kamura+Garb)
  - [Kamura Braces](https://monsterhunterrise.wiki.fextralife.com/Kamura+Braces)
