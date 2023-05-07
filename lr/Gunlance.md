@@ -1,5 +1,5 @@
 ---
-sidebar_postion: 8
+sidebar_position: 8
 ---
 
 # Gunlance

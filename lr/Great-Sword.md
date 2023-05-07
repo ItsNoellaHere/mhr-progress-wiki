@@ -1,5 +1,5 @@
 ---
-sidebar_postion: 1
+sidebar_position: 1
 ---
 
 # Great Sword

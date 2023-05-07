@@ -1,5 +1,5 @@
 ---
-sidebar_postion: 5
+sidebar_position: 5
 ---
 
 # Hammer

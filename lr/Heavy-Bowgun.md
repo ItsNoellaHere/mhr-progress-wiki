@@ -1,5 +1,5 @@
 ---
-sidebar_postion: 14
+sidebar_position: 14
 ---
 
 # Heavy Bowgun

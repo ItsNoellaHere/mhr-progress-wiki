@@ -1,5 +1,5 @@
 ---
-sidebar_postion: 11
+sidebar_position: 11
 ---
 
 # Insect Glaive
