@@ -11,72 +11,72 @@ let weaponList : weapon[] = [
     {
         image: '/img/greatsword.png',
         name: 'Great Sword',
-        link: '',
+        link: '/low-rank/Great-Sword',
     },
     {
         image: '/img/SnS.png',
         name: 'Sword and Shield',
-        link: '',
+        link: '/low-rank/Sword-and-Shield',
     },
     {
         image: '/img/duals.png',
         name: 'Dual Blades',
-        link: '',
+        link: '/low-rank/Dual-Blades',
     },
     {
         image: '/img/longsword.png',
         name: 'Long Sword',
-        link: '',
+        link: '/low-rank/Long-Sword',
     },
     {
         image: '/img/hammer.png',
         name: 'Hammer',
-        link: '',
+        link: '/low-rank/Hammer',
     },
     {
         image: '/img/horn.png',
         name: 'Hunting Horn',
-        link: '',
+        link: '/low-rank/Hunting-Horn',
     },
     {
         image: '/img/lance.png',
         name: 'Lance',
-        link: '',
+        link: '/low-rank/Lance',
     },
     {
         image: '/img/gunlance.png',
         name: 'Gunlance',
-        link: '',
+        link: '/low-rank/Gunlance',
     },
     {
         image: '/img/switchaxe.png',
         name: 'Switch Axe',
-        link: '',
+        link: '/low-rank/Switch-Axe',
     },
     {
         image: '/img/chargeblade.png',
         name: 'Charge Blade',
-        link: '',
+        link: '/low-rank/Charge-Blade',
     },
     {
         image: '/img/glaive.png',
         name: 'Insect Glaive',
-        link: '',
+        link: '/low-rank/Insect-Glaive',
     },
     {
         image: '/img/bow.png',
         name: 'Bow',
-        link: '',
+        link: '/low-rank/Bow',
     },
     {
         image: '/img/lbg.png',
         name: 'Light Bowgun',
-        link: '',
+        link: '/low-rank/Light-Bowgun',
     },
     {
         image: '/img/hbg.png',
         name: 'Heavy Bowgun',
-        link: '',
+        link: '/low-rank/Heavy-Bowgun',
     },
 ]
 
