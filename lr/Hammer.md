@@ -28,7 +28,7 @@ sidebar_position: 5
 	 - 2 [Iron Ore](https://monsterhunterrise.wiki.fextralife.com/Iron+Ore)
 
 ### URGENT Mission
- - Hunt [Great Izuchi](https://monsterhunterrise.wiki.fextralife.com/Great+Izuchi)
+ - [Great Izuchi, Great Pain](https://monsterhunterrise.wiki.fextralife.com/Great+Izuchi,+Great+Pain)
 
  **Breaking parts**
     - Hitting a specific part of the monster enough will break it causing that spot to take more damage and an extra reward to be given at the mission rewards screen
