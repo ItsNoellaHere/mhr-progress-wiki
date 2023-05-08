@@ -129,3 +129,80 @@ Alternate Loadout
  - [Feathered Frenzy](https://monsterhunterrise.wiki.fextralife.com/Feathered+Frenzy)
 
  You can hunt the [Lagombi](https://monsterhunterrise.wiki.fextralife.com/Lagombi) in the optional quest or in a frost island expedition to obtain the [Snow Slicers I](https://monsterhunterrise.wiki.fextralife.com/Snow+Slicers+I) to make the fight a little bit easier. The weapon path hits a dead end so this is where it would be the most effective.
+
+## Village 3⭐
+
+### Prioritization
+ - Do the optional quest [Feathered Frenzy](https://monsterhunterrise.wiki.fextralife.com/Feathered+Frenzy) again until you get the materials to craft the [Schirmscorn I](https://monsterhunterrise.wiki.fextralife.com/Snow+Slicers+I). You can forge them outright or upgrade a new [Matched Slicers I](https://monsterhunterrise.wiki.fextralife.com/Matched+Slicers+I).
+ - Do the optional quest [Faceless Foe](https://monsterhunterrise.wiki.fextralife.com/Faceless+Foe) for its thunder damage dual blade. Make sure you break it's head and to capture it for the best chances of a [Pale Bone](https://monsterhunterrise.wiki.fextralife.com/Pale+Bone).
+ - Mine in the [Sandy Plains](https://monsterhunterrise.wiki.fextralife.com/Sandy+Plains) for [Machalite Ore](https://monsterhunterrise.wiki.fextralife.com/Machalite+Ore) to make the [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I). Upgrade the Kamura dual blades tree until you can make the [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I).
+ - You have the option of making the [Alloy Vambraces](https://monsterhunterrise.wiki.fextralife.com/Alloy+Vambraces) and the [Alloy Coil](https://monsterhunterrise.wiki.fextralife.com/Alloy+Coil) though they do not provide a mjor benefit.
+
+
+### Key Quests
+ - [Obnoxious Lord, Noxious Monster](https://monsterhunterrise.wiki.fextralife.com/Obnoxious+Lord,+Noxious+Monster) | Use [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I) | Craft Buddy armor for Palico and Palamute with [Wroggi Scraps](https://monsterhunterrise.wiki.fextralife.com/Wroggi+Scrap)
+ - [Walking on Egg Shells](https://monsterhunterrise.wiki.fextralife.com/Walking+on+Eggshells) | Use [Schirmscorn I](https://monsterhunterrise.wiki.fextralife.com/Snow+Slicers+I)
+ - [Spongy Oasis](https://monsterhunterrise.wiki.fextralife.com/Spongy+Oasis) | Use [Schirmscorn I](https://monsterhunterrise.wiki.fextralife.com/Snow+Slicers+I)
+ - [Fightin' Dirty](https://monsterhunterrise.wiki.fextralife.com/Fightin'+Dirty) | Use [Schirmscorn I](https://monsterhunterrise.wiki.fextralife.com/Snow+Slicers+I)
+
+### Enviroment Gathering
+
+You should generally collect everything you see but this is a focused table
+
+| Gather | Carve |
+|----|----|
+| Bones* | [Delex](https://monsterhunterrise.wiki.fextralife.com/Delex) |
+| [Machalite Ore](https://monsterhunterrise.wiki.fextralife.com/Machalite+Ore) |
+| Plants |  
+| Bugs |
+
+"*" Important Materials
+
+### New Weapon/Armor
+ - [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I)
+ - [Schirmscorn I](https://monsterhunterrise.wiki.fextralife.com/Snow+Slicers+I)
+ - [Barroth Helm](https://monsterhunterrise.wiki.fextralife.com/Barroth+Helm)
+ - [Barroth Mail](https://monsterhunterrise.wiki.fextralife.com/Barroth+Mail)
+ - [Alloy Vambraces](https://monsterhunterrise.wiki.fextralife.com/Alloy+Vambraces)
+ - [Alloy Coil](https://monsterhunterrise.wiki.fextralife.com/Alloy+Coil)
+ - [Kulu-Ya-Ku Greaves](https://monsterhunterrise.wiki.fextralife.com/Kulu-Ya-Ku+Greaves)
+ 
+Optional
+ - [Arzuros Helm](https://monsterhunterrise.wiki.fextralife.com/Arzuros+Helm)
+ - [Arzuros Mail](https://monsterhunterrise.wiki.fextralife.com/Arzuros+Mail)
+
+### Loadout
+ - [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I)
+ - [Barroth Helm](https://monsterhunterrise.wiki.fextralife.com/Barroth+Helm)
+ - [Barroth Mail](https://monsterhunterrise.wiki.fextralife.com/Barroth+Mail)
+ - [Alloy Vambraces](https://monsterhunterrise.wiki.fextralife.com/Alloy+Vambraces)
+ - [Alloy Coil](https://monsterhunterrise.wiki.fextralife.com/Alloy+Coil)
+ - [Kulu-Ya-Ku Greaves](https://monsterhunterrise.wiki.fextralife.com/Kulu-Ya-Ku+Greaves)
+
+| Skill | Level |
+|---|---|
+| [Critical Eye](https://monsterhunterrise.wiki.fextralife.com/Critical+Eye) | 3 |
+| [Attack Boost](https://monsterhunterrise.wiki.fextralife.com/Attack+Boost) | 2 |
+| [Water Attack](https://monsterhunterrise.wiki.fextralife.com/Water+Attack) | 1 |
+| [Defense Boost](https://monsterhunterrise.wiki.fextralife.com/Defense+Boost)| 1 |
+| [Stun Resistance](https://monsterhunterrise.wiki.fextralife.com/Stun+Resistance)| 1 |
+
+Alternate Loadout
+ - [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I)
+ - [Izuchi Helm](https://monsterhunterrise.wiki.fextralife.com/Izuchi+Helm)
+ - [Izuchi Mail](https://monsterhunterrise.wiki.fextralife.com/Izuchi+Mail)
+ - [Alloy Vambraces](https://monsterhunterrise.wiki.fextralife.com/Alloy+Vambraces)
+ - [Alloy Coil](https://monsterhunterrise.wiki.fextralife.com/Alloy+Coil)
+ - [Chainmail Pants](https://monsterhunterrise.wiki.fextralife.com/Chainmail+Pants)
+
+| Skill | Level |
+|---|---|
+| [Critical Eye](https://monsterhunterrise.wiki.fextralife.com/Critical+Eye) | 4 |
+| [Water Attack](https://monsterhunterrise.wiki.fextralife.com/Water+Attack) | 1 |
+| [Stamina Surge](https://monsterhunterrise.wiki.fextralife.com/Stamina+Surge) | 1 |
+| [Recovery Speed](https://monsterhunterrise.wiki.fextralife.com/Recovery+Speed)| 1 |
+
+### URGENT Mission
+ - [Monkey Wrench in your Plans](https://monsterhunterrise.wiki.fextralife.com/Monkey+Wrench+in+your+Plans)
+
+ Use either Dual blades, whichever you like more, they are both good here.
