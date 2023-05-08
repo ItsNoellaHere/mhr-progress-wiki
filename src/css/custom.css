@@ -28,3 +28,8 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+footer {
+  padding: 1% !important; 
+  background-color: rgba(41, 41, 41, 0.9) !important;
+}
