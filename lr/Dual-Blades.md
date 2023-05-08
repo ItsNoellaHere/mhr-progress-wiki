@@ -1,10 +1,11 @@
 ---
 sidebar_position: 3
 ---
+# Dual Blades
 
 <!--- https://files.itsnoellahere.gay/images/ -->
 
-# Dual Blades
+
 
 ## Village 1⭐
 
@@ -134,7 +135,7 @@ Alternate Loadout
 
 ### Prioritization
  - Do the optional quest [Feathered Frenzy](https://monsterhunterrise.wiki.fextralife.com/Feathered+Frenzy) again until you get the materials to craft the [Schirmscorn I](https://monsterhunterrise.wiki.fextralife.com/Snow+Slicers+I). You can forge them outright or upgrade a new [Matched Slicers I](https://monsterhunterrise.wiki.fextralife.com/Matched+Slicers+I).
- - Do the optional quest [Faceless Foe](https://monsterhunterrise.wiki.fextralife.com/Faceless+Foe) for its thunder damage dual blade. Make sure you break it's head and to capture it for the best chances of a [Pale Bone](https://monsterhunterrise.wiki.fextralife.com/Pale+Bone).
+ - Do the optional quest [Faceless Foe](https://monsterhunterrise.wiki.fextralife.com/Faceless+Foe) for its thunder damage dual blade. Make sure you break it's head and back and to capture it for the best chances of a [Pale Bone](https://monsterhunterrise.wiki.fextralife.com/Pale+Bone).
  - Mine in the [Sandy Plains](https://monsterhunterrise.wiki.fextralife.com/Sandy+Plains) for [Machalite Ore](https://monsterhunterrise.wiki.fextralife.com/Machalite+Ore) to make the [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I). Upgrade the Kamura dual blades tree until you can make the [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I).
  - You have the option of making the [Alloy Vambraces](https://monsterhunterrise.wiki.fextralife.com/Alloy+Vambraces) and the [Alloy Coil](https://monsterhunterrise.wiki.fextralife.com/Alloy+Coil) though they do not provide a mjor benefit.
 
@@ -166,10 +167,6 @@ You should generally collect everything you see but this is a focused table
  - [Alloy Vambraces](https://monsterhunterrise.wiki.fextralife.com/Alloy+Vambraces)
  - [Alloy Coil](https://monsterhunterrise.wiki.fextralife.com/Alloy+Coil)
  - [Kulu-Ya-Ku Greaves](https://monsterhunterrise.wiki.fextralife.com/Kulu-Ya-Ku+Greaves)
- 
-Optional
- - [Arzuros Helm](https://monsterhunterrise.wiki.fextralife.com/Arzuros+Helm)
- - [Arzuros Mail](https://monsterhunterrise.wiki.fextralife.com/Arzuros+Mail)
 
 ### Loadout
  - [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I)
@@ -203,6 +200,80 @@ Alternate Loadout
 | [Recovery Speed](https://monsterhunterrise.wiki.fextralife.com/Recovery+Speed)| 1 |
 
 ### URGENT Mission
- - [Monkey Wrench in your Plans](https://monsterhunterrise.wiki.fextralife.com/Monkey+Wrench+in+your+Plans)
+ - [Monkey Wrench in your Plans](https://monsterhunterrise.wiki.fextralife.com/Monkey+Wrench+in+your+Plans).
 
  Use either Dual blades, whichever you like more, they are both good here.
+
+## Village 4⭐
+
+### Prioritization
+ - Do the key quest [A Song of Red and Fire](https://monsterhunterrise.wiki.fextralife.com/A+Song+of+Red+and+Fire) and use the [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I). Mine [Dragonite Ore](https://monsterhunterrise.wiki.fextralife.com/Dragonite+Ore) while in the [Lava Caverns](https://monsterhunterrise.wiki.fextralife.com/Lava+Caverns).
+ - Upgrade the [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I) to [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II).
+ - While in the [Lava Caverns](https://monsterhunterrise.wiki.fextralife.com/Lava+Caverns) mine [Firestone](https://monsterhunterrise.wiki.fextralife.com/Firestone) to unlock the last material for the [Bullfango Mask](https://monsterhunterrise.wiki.fextralife.com/Bullfango+Mask). This gives the skill [Bludgeoner](https://monsterhunterrise.wiki.fextralife.com/Bludgeoner) which gives an attack boost at yellow sharpness which would only be used here. (this is optional).
+ - Craft the [Ingot Greaves](https://monsterhunterrise.wiki.fextralife.com/Ingot+Greaves).
+ - Use [Volvidon Scrap](https://monsterhunterrise.wiki.fextralife.com/Volvidon+Scrap) to make armor for your palico and palamute.
+
+
+### Key Quests
+ - [A Song of Red and Fire](https://monsterhunterrise.wiki.fextralife.com/A+Song+of+Red+and+Fire) (Should be done in Prioritization).
+ - [Raging White-Out](https://monsterhunterrise.wiki.fextralife.com/Raging+White-out) | Use [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II). Focus on Breaking it's amber fangs for [Blizzarioths I](https://monsterhunterrise.wiki.fextralife.com/Blizzarioths+I).
+ - [Streaking Shadow](https://monsterhunterrise.wiki.fextralife.com/Streaking+Shadow) | Use [Blizzarioths I](https://monsterhunterrise.wiki.fextralife.com/Blizzarioths+I).
+ - [Infernal Lacrimosa](https://monsterhunterrise.wiki.fextralife.com/Infernal+Lacrimosa) | Use [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II).
+ - [The Queen's Procession](https://monsterhunterrise.wiki.fextralife.com/The+Queen's+Procession) | Use either [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II) or [Blizzarioths I](https://monsterhunterrise.wiki.fextralife.com/Blizzarioths+I). You can use [Rathian Scrap](https://monsterhunterrise.wiki.fextralife.com/Rathian+Scrap) to make palico and palamute weapons.
+
+### Enviroment Gathering
+
+You should generally collect everything you see but this is a focused table
+
+| Gather | Carve |
+|----|----|
+| [Firestone](https://monsterhunterrise.wiki.fextralife.com/Firestone) | [Bullfango](https://monsterhunterrise.wiki.fextralife.com/Bullfango) |
+| [Dragonite Ore](https://monsterhunterrise.wiki.fextralife.com/Dragonite+Ore) | [Altaroth](https://monsterhunterrise.wiki.fextralife.com/Altaroth) |
+| Plants | [Bnahabra](https://monsterhunterrise.wiki.fextralife.com/Bnahabra) |
+|  Bugs |
+
+"*" Important Materials
+
+### New Weapon/Armor
+ - [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II)
+ - [Blizzarioths I](https://monsterhunterrise.wiki.fextralife.com/Blizzarioths+I)
+ - [Bullfango Mask](https://monsterhunterrise.wiki.fextralife.com/Bullfango+Mask)
+ - [Barioth Vambraces](https://monsterhunterrise.wiki.fextralife.com/Barioth+Vambraces)
+ - [Barioth Coil](https://monsterhunterrise.wiki.fextralife.com/Barioth+Coil)
+ - [Tobi-Kadachi Mail](https://monsterhunterrise.wiki.fextralife.com/Tobi-Kadachi+Mail)
+ - [Kadachi Greaves](https://monsterhunterrise.wiki.fextralife.com/Kadachi+Greaves)
+ - [Ingot Greaves](https://monsterhunterrise.wiki.fextralife.com/Ingot+Greaves)
+
+### Loadout
+ - [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II)
+ - [Bullfango Mask](https://monsterhunterrise.wiki.fextralife.com/Bullfango+Mask)
+ - [Tobi-Kadachi Mail](https://monsterhunterrise.wiki.fextralife.com/Tobi-Kadachi+Mail)
+ - [Barioth Vambraces](https://monsterhunterrise.wiki.fextralife.com/Barioth+Vambraces)
+ - [Barioth Coil](https://monsterhunterrise.wiki.fextralife.com/Barioth+Coil)
+ - [Kadachi Greaves](https://monsterhunterrise.wiki.fextralife.com/Kadachi+Greaves)
+
+| Skill | Level |
+|---|---|
+| [Critical Eye](https://monsterhunterrise.wiki.fextralife.com/Critical+Eye) | 5 |
+| [Bludgeoner](https://monsterhunterrise.wiki.fextralife.com/Bludgeoner) | 1 |
+| [Constitution](https://monsterhunterrise.wiki.fextralife.com/Constitution) | 1 |
+
+
+Alternate Loadout
+ - [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II)
+ - [Barroth Helm](https://monsterhunterrise.wiki.fextralife.com/Barroth+Helm)
+ - [Barroth Mail](https://monsterhunterrise.wiki.fextralife.com/Barroth+Mail)
+ - [Barioth Vambraces](https://monsterhunterrise.wiki.fextralife.com/Barioth+Vambraces)
+ - [Barioth Coil](https://monsterhunterrise.wiki.fextralife.com/Barioth+Coil)
+ - [Ingot Greaves](https://monsterhunterrise.wiki.fextralife.com/Ingot+Greaves)
+
+| Skill | Level |
+|---|---|
+| [Critical Eye](https://monsterhunterrise.wiki.fextralife.com/Critical+Eye) | 4 |
+| [Attack Boost](https://monsterhunterrise.wiki.fextralife.com/Attack+Boost) | 3 |
+| [Defense Boost](https://monsterhunterrise.wiki.fextralife.com/Defense+Boost) | 1 |
+
+### URGENT Mission
+ - [Comeuppance](https://monsterhunterrise.wiki.fextralife.com/Comeuppance)
+
+ Use [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II). The credits will roll after this quest.
