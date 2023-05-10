@@ -23,8 +23,10 @@ export default function Home() {
     <Layout
       title={siteConfig.title}
       description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <WeaponGrid />
+      <div className={styles.container}>
+        <HomepageHeader />
+        <WeaponGrid />
+      </div>
     </Layout>
   );
 }

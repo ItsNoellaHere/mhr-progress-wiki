@@ -11,18 +11,38 @@
   flex: 1 0 auto;
 }
 
-.docsWrapper::before {
-  content: "";
-  position: fixed;
-  left: 0;
-  right: 0;
-  z-index: -1;
+@media screen and not (max-width: 996px) {
+  .docsWrapper::before {
+    content: "";
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: -1;
+  
+    display: block;
+    background: url('https://files.itsnoellahere.gay/images/games_mhr_feudal_3.png') no-repeat center fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  
+    filter: blur(5px) brightness(60%);
+  }
+}
 
-  display: block;
-  background: url('https://files.itsnoellahere.gay/images/games_mhr_feudal_3.png') no-repeat center fixed;
-  background-size: cover;
-  width: 100%;
-  height: 100%;
-
-  filter: blur(5px) brightness(60%);
+@media screen and (max-width: 996px) {
+  .docsWrapper::before {
+    content: "";
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: -1;
+  
+    display: block;
+    background: url('https://files.itsnoellahere.gay/images/games_mhr_feudal_3_mobile.png') no-repeat center fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+  
+    filter: blur(5px) brightness(60%);
+  }
 }
