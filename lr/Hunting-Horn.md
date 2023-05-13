@@ -42,6 +42,7 @@ You should generally collect everything you see but this is a focused table
 | [Divine Blessing](https://monsterhunterrise.wiki.fextralife.com/Divine+Blessing) | 1 |
 | [Heroics](https://monsterhunterrise.wiki.fextralife.com/Heroics) | 1 |
 | [Wirebug Whisperer](https://monsterhunterrise.wiki.fextralife.com/Wirebug+Whisperer) | 1 |
+
 ### URGENT Mission
  - [Great Izuchi, Great Pain](https://monsterhunterrise.wiki.fextralife.com/Great+Izuchi,+Great+Pain)
 
