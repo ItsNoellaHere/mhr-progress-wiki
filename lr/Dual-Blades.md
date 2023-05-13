@@ -15,6 +15,8 @@ sidebar_position: 3
  
 ### Enviroment Gathering
 
+You should generally collect everything you see but this is a focused table
+
 | Gather | Carve |
 |----|----|
 | Bones* | [Bullfango](https://monsterhunterrise.wiki.fextralife.com/Bullfango) |
@@ -137,7 +139,7 @@ Alternate Loadout
  - Do the optional quest [Feathered Frenzy](https://monsterhunterrise.wiki.fextralife.com/Feathered+Frenzy) again until you get the materials to craft the [Schirmscorn I](https://monsterhunterrise.wiki.fextralife.com/Snow+Slicers+I). You can forge them outright or upgrade a new [Matched Slicers I](https://monsterhunterrise.wiki.fextralife.com/Matched+Slicers+I).
  - Do the optional quest [Faceless Foe](https://monsterhunterrise.wiki.fextralife.com/Faceless+Foe) for its thunder damage dual blade. Make sure you break it's head and back and to capture it for the best chances of a [Pale Bone](https://monsterhunterrise.wiki.fextralife.com/Pale+Bone).
  - Mine in the [Sandy Plains](https://monsterhunterrise.wiki.fextralife.com/Sandy+Plains) for [Machalite Ore](https://monsterhunterrise.wiki.fextralife.com/Machalite+Ore) to make the [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I). Upgrade the Kamura dual blades tree until you can make the [Khezu Daggers I](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+I).
- - You have the option of making the [Alloy Vambraces](https://monsterhunterrise.wiki.fextralife.com/Alloy+Vambraces) and the [Alloy Coil](https://monsterhunterrise.wiki.fextralife.com/Alloy+Coil) though they do not provide a mjor benefit.
+ - You have the option of making the [Alloy Vambraces](https://monsterhunterrise.wiki.fextralife.com/Alloy+Vambraces) and the [Alloy Coil](https://monsterhunterrise.wiki.fextralife.com/Alloy+Coil) though they do not provide a major benefit.
 
 
 ### Key Quests
