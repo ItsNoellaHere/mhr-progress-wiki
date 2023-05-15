@@ -345,3 +345,12 @@ Alternate Loadout
  - [Hermit of the Swamp](https://monsterhunterrise.wiki.fextralife.com/Hermit+of+the+Swamp)
 
  Use [Blizzarioths I](https://monsterhunterrise.wiki.fextralife.com/Blizzarioths+I).
+
+## Village 6⭐
+
+There are no more Key Quests and no more incentive to do the quests inside of 6 Star. You will have to complete some of these hunts for materials later but that will be significantly easier and faster to do in High Rank gear. Instead, complete,
+ - Special License Test 1 | Use Either weapon
+ - Special License Test 2 | Use [Blizzarioths I](https://monsterhunterrise.wiki.fextralife.com/Blizzarioths+I) for Izuchi and Bishitan and then switch to [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II) for Magnamalo in the tent at the camp.
+ - Special License Test 3 | Use [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II) for Rathalos then switch to [Blizzarioths I](https://monsterhunterrise.wiki.fextralife.com/Blizzarioths+I) for Zinogre and Almudron.
+
+This will let you skip the Gathering Hub Low Rank Key Quests and allow you to go straight into High Rank.
