@@ -279,3 +279,69 @@ Alternate Loadout
  - [Comeuppance](https://monsterhunterrise.wiki.fextralife.com/Comeuppance)
 
  Use [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II). The credits will roll after this quest.
+
+## Village 5⭐
+
+### Prioritization
+ - If you desire Magnamalo weapons and gear, Hunt Magnamalo for those things now as they will be replaced by High Rank gear soon.
+ - Most gear made will get out shined by High Rank gear but there are still a few optimizations for your convenience.
+
+
+### Key Quests
+ - [Wind Speed Wyvern)](https://monsterhunterrise.wiki.fextralife.com/Wind+Speed+Wyvern) | Use [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II). [Nargacuga Mail](https://monsterhunterrise.wiki.fextralife.com/Nargacuga+Mail) and [Nargacuga Greaves](https://monsterhunterrise.wiki.fextralife.com/Nargacuga+Greaves) are an upgrade.
+ - [Electrifying Epiphany](https://monsterhunterrise.wiki.fextralife.com/Electrifying+Epiphany) | Use [Blizzarioths I](https://monsterhunterrise.wiki.fextralife.com/Blizzarioths+I). [Zinogre Helm](https://monsterhunterrise.wiki.fextralife.com/Zinogre+Helm) and [Zinogre Mail](https://monsterhunterrise.wiki.fextralife.com/Zinogre+Mail) are an upgrade.
+ - [Nocturnal Tracker](https://monsterhunterrise.wiki.fextralife.com/Nocturnal+Tracker) | Any weapon works. [Anjanath Coil](https://monsterhunterrise.wiki.fextralife.com/Anjanath+Coil) is an upgrade.
+ - [Rathalos Alert!](https://monsterhunterrise.wiki.fextralife.com/Rathalos+Alert!) | Use [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II).
+
+### Enviroment Gathering
+
+You should generally collect everything you see but this is a focused table
+
+| Gather | Carve |
+|----|----|
+| Bones* |
+| Ore* |
+| Plants |
+| Bugs |
+
+"*" Important Materials
+
+### New Weapon/Armor
+ - [Nargacuga Mail](https://monsterhunterrise.wiki.fextralife.com/Nargacuga+Mail)
+ - [Nargacuga Greaves](https://monsterhunterrise.wiki.fextralife.com/Nargacuga+Greaves)
+ - [Zinogre Helm](https://monsterhunterrise.wiki.fextralife.com/Zinogre+Helm)
+ - [Zinogre Mail](https://monsterhunterrise.wiki.fextralife.com/Zinogre+Mail)
+ - [Anjanath Coil](https://monsterhunterrise.wiki.fextralife.com/Anjanath+Coil)
+
+### Loadout
+ - [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II)
+ - [Zinogre Helm](https://monsterhunterrise.wiki.fextralife.com/Zinogre+Helm)
+ - [Zinogre Mail](https://monsterhunterrise.wiki.fextralife.com/Zinogre+Mail)
+ - [Barioth Vambraces](https://monsterhunterrise.wiki.fextralife.com/Barioth+Vambraces)
+ - [Barioth Coil](https://monsterhunterrise.wiki.fextralife.com/Barioth+Coil)
+ - [Ingot Greaves](https://monsterhunterrise.wiki.fextralife.com/Ingot+Greaves)
+
+| Skill | Level |
+|---|---|
+| [Critical Eye](https://monsterhunterrise.wiki.fextralife.com/Critical+Eye) | 6 |
+| [Latent Power](https://monsterhunterrise.wiki.fextralife.com/Latent+Power) | 2 |
+| [Attack Boost](https://monsterhunterrise.wiki.fextralife.com/Attack+Boost) | 1 |
+
+Alternate Loadout
+ - [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II)
+ - [Barroth Helm](https://monsterhunterrise.wiki.fextralife.com/Barroth+Helm)
+ - [Barroth Mail](https://monsterhunterrise.wiki.fextralife.com/Barroth+Mail)
+ - [Barioth Vambraces](https://monsterhunterrise.wiki.fextralife.com/Barioth+Vambraces)
+ - [Barioth Coil](https://monsterhunterrise.wiki.fextralife.com/Barioth+Coil)
+ - [Ingot Greaves](https://monsterhunterrise.wiki.fextralife.com/Ingot+Greaves)
+
+| Skill | Level |
+|---|---|
+| [Critical Eye](https://monsterhunterrise.wiki.fextralife.com/Critical+Eye) | 4 |
+| [Attack Boost](https://monsterhunterrise.wiki.fextralife.com/Attack+Boost) | 3 |
+| [Defense Boost](https://monsterhunterrise.wiki.fextralife.com/Defense+Boost) | 1 |
+
+### URGENT Mission
+ - [Hermit of the Swamp](https://monsterhunterrise.wiki.fextralife.com/Hermit+of+the+Swamp)
+
+ Use [Blizzarioths I](https://monsterhunterrise.wiki.fextralife.com/Blizzarioths+I).
