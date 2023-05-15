@@ -352,5 +352,6 @@ There are no more Key Quests and no more incentive to do the quests inside of 6 
  - Special License Test 1 | Use Either weapon
  - Special License Test 2 | Use [Blizzarioths I](https://monsterhunterrise.wiki.fextralife.com/Blizzarioths+I) for Izuchi and Bishitan and then switch to [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II) for Magnamalo in the tent at the camp.
  - Special License Test 3 | Use [Khezu Daggers II](https://monsterhunterrise.wiki.fextralife.com/Khezu+Daggers+II) for Rathalos then switch to [Blizzarioths I](https://monsterhunterrise.wiki.fextralife.com/Blizzarioths+I) for Zinogre and Almudron.
+ - [The Blue Apex](https://monsterhunterrise.wiki.fextralife.com/The+Blue+Apex) | An Urgent Gathering Hub Rampage Quest to unlock High Rank.
 
 This will let you skip the Gathering Hub Low Rank Key Quests and allow you to go straight into High Rank.
