@@ -29,6 +29,7 @@ const config = {
           path: 'lr',
           routeBasePath: 'low-rank',
           sidebarPath: require.resolve('./sidebars.js'),
+          
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,7 +66,7 @@ const config = {
         title: 'MHR Progression Wiki',
         logo: {
           alt: 'My Site Logo',
-          src: 'https://files.itsnoellahere.gay/images/mhricon.png',
+          src: 'https://files.itsnoellahere.gay/images/MHR-Wiki/mhricon.png',
         },
         items: [
           {

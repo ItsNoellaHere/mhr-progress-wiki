@@ -9,72 +9,72 @@ type weapon = {
 
 let weaponList: weapon[] = [
     {
-        image: 'https://files.itsnoellahere.gay/images/greatsword.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/greatsword.png',
         name: 'Great Sword',
         link: '/low-rank/Great-Sword',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/SnS.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/SnS.png',
         name: 'Sword and Shield',
         link: '/low-rank/Sword-and-Shield',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/duals.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/duals.png',
         name: 'Dual Blades',
         link: '/low-rank/Dual-Blades',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/longsword.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/longsword.png',
         name: 'Long Sword',
         link: '/low-rank/Long-Sword',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/hammer.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/hammer.png',
         name: 'Hammer',
         link: '/low-rank/Hammer',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/horn.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/horn.png',
         name: 'Hunting Horn',
         link: '/low-rank/Hunting-Horn',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/lance.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/lance.png',
         name: 'Lance',
         link: '/low-rank/Lance',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/gunlance.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/gunlance.png',
         name: 'Gunlance',
         link: '/low-rank/Gunlance',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/switchaxe.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/switchaxe.png',
         name: 'Switch Axe',
         link: '/low-rank/Switch-Axe',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/chargeblade.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/chargeblade.png',
         name: 'Charge Blade',
         link: '/low-rank/Charge-Blade',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/glaive.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/glaive.png',
         name: 'Insect Glaive',
         link: '/low-rank/Insect-Glaive',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/bow.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/bow.png',
         name: 'Bow',
         link: '/low-rank/Bow',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/lbg.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/lbg.png',
         name: 'Light Bowgun',
         link: '/low-rank/Light-Bowgun',
     },
     {
-        image: 'https://files.itsnoellahere.gay/images/hbg.png',
+        image: 'https://files.itsnoellahere.gay/images/MHR-Wiki/hbg.png',
         name: 'Heavy Bowgun',
         link: '/low-rank/Heavy-Bowgun',
     },
