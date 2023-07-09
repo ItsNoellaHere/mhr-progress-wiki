@@ -1,4 +1,4 @@
-# MHR Progress Guild
+# MHR Progress Guild (WIP)
 
 A progress guild for Monster Hunter Rise based off of a series of videos by [Recommended Playing](https://www.youtube.com/@RecommendedPlaying)
 
